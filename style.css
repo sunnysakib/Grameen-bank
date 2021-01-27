@@ -1,16 +1,21 @@
 
 body {
     padding: 100px;
+    background: linear-gradient(to right, #085078, #85d8ce);
 }
-/* .login-box {
-    padding-top: 60px;
-} */
+
+.section-body h1 {
+    font-weight: 700;
+    color: whitesmoke;
+}
+
 .submit-box {
     /* width: 60%; */
     margin-top: 50px;
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 2px 2px 20px gray;
+    background: whitesmoke;
 
 }
 
